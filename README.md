@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elassis
-- 👀 I’m interested in work as a software developer
+- 👀 I’m interested in work as a Full Stack Developer
 - 🌱 I’m currently learning Javascript, react, Ruby on rails
 - 📫 How to reach me enmanuellassis@gmail.com
 
