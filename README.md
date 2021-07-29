@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @elassis
 - 👀 I’m interested in work as a Full Stack Developer
 - 🌱 I’m currently learning Javascript, react, Ruby on rails
-- 📫 How to reach me enmanuellassis@gmail.com
+- 📫 How to reach me: [Gmail](enmanuellassis@gmail.com) -  [Linkedin](https://www.linkedin.com/in/enmanuel-lassis-pe%C3%B1a/)
 
 <!---
 elassis/elassis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
