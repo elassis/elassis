@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elassis
-- 👀 I'm Available to **Work** 
+- 👀 I'm Available for **HIRE** 
 - 🌱 I’m currently learning Javascript, react, Ruby on rails
 - 📫 How to reach me: [Gmail](enmanuellassis@gmail.com) -  [Linkedin](https://www.linkedin.com/in/enmanuel-lassis-pe%C3%B1a/)
 - 💼 Take a look to my [PortFolio](https://elassis.github.io/mobile_version_portfolio/)  
